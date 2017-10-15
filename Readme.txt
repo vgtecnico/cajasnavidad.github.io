@@ -1,36 +1,58 @@
-== Theme Name: Logic - Free Html5 Multipurpose Business Template
 
-== Copyright (c) 2016 BootstrapThemes.co
+TITLE: 
+Tasty - 100% Fully Responsive Free HTML5 Bootstrap Template for Restaurant
 
-== http://BootstrapThemes.co
+AUTHOR:
+DESIGNED & DEVELOPED by FreeHTML5.co
 
-
-
-Html Created by: http://bootstrapthemes.co
-
-
-
-Psd Created by: --Arifuzzaman Sajib-- https://www.behance.net/gallery/31881449/Free-Multipurpose-Business-PSD-Template
+Website: http://freehtml5.co/
+Twitter: http://twitter.com/fh5co
+Facebook: http://facebook.com/fh5co
 
 
-Rights: 
-You are permitted to use the resources for any number of personal and commercial projects.
-You may modify the resources according to your requirements and include them into works, 
-such as websites, applications or other materials intended for sale. No attribution or 
-link back to this site is required, however any credit will be much appreciated.
+CREDITS:
 
+Bootstrap
+http://getbootstrap.com/
 
-Prohibitions:
-You do not have the rights to redistribute, resell, lease, license, sublicense or offer 
-files downloaded from http://bootstrapthemes.co to any third party ìas isî or as a separate attachment 
-from any of your work. If you wish to promote my resources on your site, you must link back 
-to the resource page where users can find the download and not directly to the download file.
+jQuery
+http://jquery.com/
 
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
 
+Modernizr
+http://modernizr.com/
 
-If you would like to share one of my resources, you can do so by making a link to the specific 
-resource on http://bootstrapthemes.co , you can if you wish insert the embed code for the product previews images to illustrate your link. 
-No HOTLINKING is allowed i.e. you cannot make a direct link to the download or/and the images hosted on http://bootstrapthemes.co
+Google Fonts
+https://www.google.com/fonts/
 
-Concerning blog posts, you are free to link to it from any website, 
-but you cannot however publish it as it is, without prior consent from http://bootstrapthemes.co
+Icomoon
+https://icomoon.io/app/
+
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+
+animate.css
+http://daneden.me/animate
+
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Flexslider
+http://flexslider.woothemes.com/
+
+Zoomerang
+http://yyx990803.github.io/zoomerang/
+
+DateTimePicker
+https://github.com/Eonasdan/bootstrap-datetimepicker
+
+MomentJS
+http://momentjs.com
+
+Stellar Parallax
+http://markdalgleish.com/projects/stellar.js/
+
+Demo Images:
+http://unsplash.com
